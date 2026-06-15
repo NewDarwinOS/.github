@@ -32,6 +32,6 @@ A newer build system is on the way! It remains closed for now, but will be relea
 
 Software itself is a form of art, just as we consider paintings art. AI generated code is not art, nor does it have soul.
 
-The joy of creation is what is valued, over the soullessly prompted code that one get out of AI models such as Claude or ChatGPT.
+The joy of creation is what is valued, over the soullessly prompted code that one gets out of AI models such as Claude or ChatGPT.
 
 AI-generated code is not welcome, and will be rejected upon PR.
