@@ -28,10 +28,8 @@ A full system build is complicated, time costly and overall an annoyance, even w
 
 A newer build system is on the way! It remains closed for now, but will be released when it's ready.
 
-## AI 'Policy'
+## AI Policy
 
-Software itself is a form of art, just as we consider paintings art. AI generated code is not art, nor does it have soul.
+AI generated code is not accepted. 
 
-The joy of creation is what is valued, over the soullessly prompted code that one gets out of AI models such as Claude or ChatGPT.
-
-AI-generated code is not welcome, and will be rejected upon PR.
+Do not submit pull requests with AI generated code.
